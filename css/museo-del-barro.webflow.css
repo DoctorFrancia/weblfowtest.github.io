@@ -1,0 +1,222 @@
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #214196;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 700;
+}
+
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #214196;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #214196;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+}
+
+h5 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #214196;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #fff;
+}
+
+.navlink {
+  color: #214196;
+}
+
+.navlink:hover {
+  color: #a3a3a3;
+}
+
+.dropdown-link {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #fff;
+}
+
+.dropdown-link:hover {
+  background-color: #afafaf;
+  color: #fff;
+}
+
+.dropdown-link.w--current {
+  color: #182e68;
+}
+
+.dropdown-list.w--open {
+  background-color: #214196;
+}
+
+.mapa {
+  height: 300px;
+}
+
+.logo-footer {
+  display: inline;
+  margin-right: 15px;
+}
+
+.info-footer {
+  display: inline-block;
+}
+
+.imagen-preliminar {
+  width: 200px;
+  height: 200px;
+  background-image: url('../images/example-bg.png');
+  background-position: 50% 50%;
+  background-size: 125px;
+  background-repeat: no-repeat;
+}
+
+.link-post {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  color: #000;
+  text-decoration: none;
+}
+
+.fecha {
+  display: inline;
+}
+
+.desde-hasta {
+  display: inline;
+  margin-right: 10px;
+  color: #214196;
+  font-weight: 700;
+}
+
+.container-footer {
+  margin-top: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+  border-top: 2px solid #214196;
+}
+
+.info-museo-footer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  float: left;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+  -ms-flex-align: start;
+  align-items: flex-start;
+}
+
+.redes-footer {
+  float: right;
+}
+
+.nav-menu {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  align-self: center;
+}
+
+.nav-container {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.titulo-barra-lateral {
+  margin-bottom: 0px;
+}
+
+.slider {
+  background-color: transparent;
+}
+
+.icono {
+  color: #214196;
+}
+
+.info-banner {
+  padding-right: 10px;
+}
+
+.columna-info {
+  height: 300px;
+  padding-right: 10px;
+}
+
+.columna-foto {
+  height: 300px;
+}
+
+.foto-de-banner {
+  height: 300px;
+  background-image: url('../images/8--O-museo_arte_indigena_museo_del_barro_02.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.foto-de-banner.barro {
+  background-image: url('../images/Captura de pantalla 2016-09-09 a las 4.00.13 p.m..png');
+  background-size: 596px;
+}
+
+.redes {
+  margin-right: 5px;
+  margin-left: 5px;
+  -webkit-transition: all 400ms ease;
+  transition: all 400ms ease;
+}
+
+.redes:hover {
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.right-arrow {
+  margin-right: -70px;
+}
+
+.left-arrow {
+  margin-left: -70px;
+}
+
+.contenido {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.subtitulo {
+  font-weight: 700;
+}
+
+.fecha2 {
+  display: inline;
+}
